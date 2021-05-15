@@ -45,7 +45,7 @@ function draw() {
        wall.shapeColor=color(0,255,0);
        textSize(32);
        fill(0, 102, 153);
-   text('The bullet has destroyed the wall', 10, 30);
+   text('The bullet is effective against  the wall', 10, 30);
      }
   }
 
